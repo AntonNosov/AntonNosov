@@ -40,6 +40,14 @@
 - Participated in CI/CD setup, reducing deployment times by 15%.  
 **Technologies**: Node.js, TypeScript, Nest.js, React, PostgreSQL
 
+### **Full-stack Developer**  
+**Alfaleads** (Jun 2018 - Oct 2020)  
+**Location**: St. Petersburg, Russia (On-site)  
+- Contributed to the development of internal CRM systems, streamlining customer management and enhancing user engagement.
+- Automated advertising account management, reducing manual workload by 40% and improving campaign tracking efficiency.
+- Configured web application servers, ensuring high availability, security, and performance.  
+**Technologies**: Node.js, JavaScript, Vue, Electron, Redis, PostgreSQL, MongoDB, RabbitMQ
+
 ---
 
 ## 🚀 Projects
