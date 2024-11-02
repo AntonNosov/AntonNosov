@@ -16,40 +16,6 @@
 
 ---
 
-## 🛠 Experience
-
-### **Senior Software Engineer**  
-**Klika Tech, Inc** (Nov 2022 - Present)  
-**Location**: Tbilisi, Georgia (Remote)  
-- Architected cloud-native solutions with AWS IoT Core, Lambda, and DynamoDB to process real-time data for 100,000+ IoT devices.
-- Improved data pipelines, reducing infrastructure costs by 30% while handling over 1M+ transactions monthly.
-- Collaborated with cross-functional teams to deliver user-focused IoT solutions.  
-**Technologies**: AWS, Node.js, TypeScript, DynamoDB, NeptuneDB
-
-### **Backend Developer**  
-**X5 FoodTech** (Jul 2021 - Nov 2022)  
-**Location**: St. Petersburg, Russia (Remote)  
-- Enhanced backend for a high-traffic CMS, optimizing data search and improving query response times by 35%.
-- Implemented automated testing for the backend, significantly boosting code reliability.  
-**Technologies**: Node.js, JavaScript, MongoDB, Redis, ElasticSearch, Kafka
-
-### **Full-stack Developer**  
-**Evercode Lab** (Nov 2020 - Jul 2021)  
-**Location**: St. Petersburg, Russia (On-site)  
-- Developed backend for a secure crypto-debit card application, integrating with an exchange platform for real-time transactions.
-- Participated in CI/CD setup, reducing deployment times by 15%.  
-**Technologies**: Node.js, TypeScript, Nest.js, React, PostgreSQL
-
-### **Full-stack Developer**  
-**Alfaleads** (Jun 2018 - Oct 2020)  
-**Location**: St. Petersburg, Russia (On-site)  
-- Contributed to the development of internal CRM systems, streamlining customer management and enhancing user engagement.
-- Automated advertising account management, reducing manual workload by 40% and improving campaign tracking efficiency.
-- Configured web application servers, ensuring high availability, security, and performance.  
-**Technologies**: Node.js, JavaScript, Vue, Electron, Redis, PostgreSQL, MongoDB, RabbitMQ
-
----
-
 ## 🚀 Projects
 
 ### [FastSkipper](https://fastskipper.com/)  
@@ -66,10 +32,6 @@ Telemetric data platform for sailing teams and media companies.
 - **AWS Certified Solutions Architect – Associate**
 - **Software Design and Architecture** – University of Alberta (Coursera)
 - **Professional Scrum Master I & II** – Scrum.org
-
-## 🎓 Education
-- **Master of Computer Science** – National Mineral Resources University, Russia (2017-2019)
-- **Bachelor of Computer Science** – National Mineral Resources University, Russia (2013-2017)
 
 ---
 
